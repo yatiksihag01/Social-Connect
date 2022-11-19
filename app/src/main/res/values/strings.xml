@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Social Connect</string>
+    <string name="your_web_client_id">181512617235-vrcdca1icjfr3pdgg6ou5tb1bp518dig.apps.googleusercontent.com</string>
+    <string name="logout">logout</string>
+</resources>

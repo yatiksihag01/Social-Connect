@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "181512617235",
+    "project_id": "social-connect-80665",
+    "storage_bucket": "social-connect-80665.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181512617235:android:173a384a8fe2058a2caee6",
+        "android_client_info": {
+          "package_name": "com.yatik.socialconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181512617235-vrcdca1icjfr3pdgg6ou5tb1bp518dig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMxwzKAPL03hfPUSGKrKgTsTetUUSniNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181512617235-vrcdca1icjfr3pdgg6ou5tb1bp518dig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
